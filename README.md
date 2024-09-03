@@ -20,7 +20,6 @@ The **Age Calculator** is designed to give users an easy way to find out their c
 - **CSS**: Applied for styling the webpage and ensuring it is responsive across various devices.
 - **JavaScript**: Implemented for handling the age calculation logic and updating the DOM.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
